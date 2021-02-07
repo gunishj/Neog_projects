@@ -10,4 +10,13 @@ function clickEventHandler() {
 
 btnTranslate.addEventListener("click", clickEventHandler)
 
+// 1. document.querySelector ("textarea")
+// 2. .btn-primary
+// 3. #input-btn
+// 4. "input[name='translator']"
+
+// document.querySelectorAll(".artdeco-button__text").forEach(item=> setTimeout(item.click(), Math.random*1000))
+
+
+
 
